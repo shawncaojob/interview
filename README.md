@@ -1,7 +1,7 @@
 # Common interview
 
-# Linux Internal
-1. What is zombie process? How does it work
+Linux Internal
+* What is zombie process? How does it work
 2. Softlink vs hardlink
 3. System shows disk full, however you deleted files but spaces are not released, why
 4. Inode. What information in the inode, how to check, which system call
@@ -12,8 +12,8 @@
 9. Mutex vs semaphore 
 10. What is /proc file system
 
-# Performace Troubleshooting
-1. How to identify CPU issues
+Performace Troubleshooting
+* How to identify CPU issues
 2. How to identify Memory issues
 3. How to identify Network issues? What commands?
 4. How to know memory utilization
@@ -22,15 +22,15 @@
 7. How to tune CPU? What commands?
 8. How to tune scheduler? 
 
-# TCP UDP
-1. How TCP works
-2. TCP vs UDP
-3. TCP header format
-4. tcpdump
+TCP UDP
+  How TCP works
+  TCP vs UDP
+  TCP header format
+  tcpdump
 
-# DNS
-1. How DNS recursive resolver works
-2. What are those record types for A, AAAA, NS, MX, PTR, CNAME
+DNS
+  How DNS recursive resolver works
+  What are those record types for A, AAAA, NS, MX, PTR, CNAME
 
 # PTP
 1. What is PTP? How does it work
