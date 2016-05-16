@@ -1,4 +1,4 @@
-# Common interview
+# Common Questions
 
 Linux Internal
 * What is zombie process? How does it work
