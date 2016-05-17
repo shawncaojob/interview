@@ -54,6 +54,11 @@ Java
 Big data
 * CAP therom
 * Compare command big data DBs (Hadoop, Cassandra, Mongo)
+* HDFS
+* Spark
+* ZooKeeper
+* HBase
+* Yarn
 
 Behaviour
 * Your three strengths and weaknesses 
