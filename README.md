@@ -59,6 +59,10 @@ Big data
 * ZooKeeper
 * HBase
 * Yarn
+* Name use cases for big data DBs
+* Hadoop vs Mongo
+* Cassandra vs Hadoop
+* Mongo vs Cassandra
 
 Behaviour
 * Your three strengths and weaknesses 
