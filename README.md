@@ -67,3 +67,7 @@ Big data
 Behaviour
 * Your three strengths and weaknesses 
 * 
+
+Programming:
+* Implement tail unix command
+* 
